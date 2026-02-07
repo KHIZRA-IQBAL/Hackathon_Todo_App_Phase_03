@@ -17,4 +17,4 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          git push --force https://KHIZRA-IQBAL:$HF_TOKEN@huggingface.co/spaces/khizraIqbal/Phase3-ai-todo-app main
+          git push --force https://khizraIqbal:$HF_TOKEN@huggingface.co/spaces/khizraIqbal/Phase3-ai-todo-app main

@@ -1,3 +1,15 @@
+---
+title: Phase3 Ai Todo App
+emoji: 🚀
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
+
+# Hackathon Todo App Phase 03
+Yahan aapka purana sara description aur details ayengi...
+
 The AI agent has been implemented and all related project components have been set up.
 
 Summary of actions:

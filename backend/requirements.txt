@@ -1,0 +1,10 @@
+openai
+python-dotenv
+openai-agents
+fastapi[standard]
+fastmcp
+requests
+uvicorn
+sqlmodel
+python-jose[cryptography]
+passlib[bcrypt]

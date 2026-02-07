@@ -1,0 +1,50 @@
+```
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files - IMPORTANT: Don't include in image
+.env
+.env.local
+.env.*.local
+
+# Database files (local only)
+*.db
+*.sqlite
+*.sqlite3
+test.db
+
+# Testing
+.pytest_cache/
+.coverage
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Logs
+*.log
+
+# Documentation
+README.md
+docs/
+```
